@@ -1,0 +1,79 @@
+﻿Content,Genre,Score
+Logo of the channel,News,3.01754386
+The Speaker's Eye,News,4.298245614
+The Speaker's Mouth,News,4.157894737
+The Listener's Face,News,3.894736842
+"The Name of primary onscreen person (News presenter, announcer, host)",News,3.596491228
+"The SN handle of primary onscreen person (News presenter, announcer, host)",News,2.719298246
+Topic of discussion or current story text,News,4.526315789
+"Title of primary person (News presenter, Announcer, Host)",News,3.350877193
+The location name of an onscreen primary person,News,4.026315789
+Time and Temperature,News,2.596491228
+"The name of the secondary person (Remote Reporter, Guest)",News,3.631578947
+"The title of secondary person (Remote Reporter, Guest)",News,3.263157895
+"Textual Information (City-wise Temperature information, Other textual)",News,4
+Logo of the channel,Interviews,2.842105263
+The Speaker's Eye,Interviews,4.394736842
+The Speaker's Mouth,Interviews,4.447368421
+The Listener's Face,Interviews,4.315789474
+"The Name of primary onscreen person (News presenter, announcer, host)",Interviews,3.631578947
+"The SN handle of primary onscreen person (News presenter, announcer, host)",Interviews,2.657894737
+Topic of discussion or current story text,Interviews,4.447368421
+"Title of primary person (News presenter, Announcer, Host)",Interviews,3.5
+The location name of an onscreen primary person,Interviews,3.315789474
+Time and Temperature,Interviews,
+"The name of the secondary person (Remote Reporter, Guest)",Interviews,4.105263158
+"The title of secondary person (Remote Reporter, Guest)",Interviews,3.736842105
+"Textual Information (City-wise Temperature information, Other textual)",Interviews,
+Logo of the channel,Emergency Announcement,3.026315789
+The Speaker's Eye,Emergency Announcement,4.236842105
+The Speaker's Mouth,Emergency Announcement,4.236842105
+The Listener's Face,Emergency Announcement,3.315789474
+"The Name of primary onscreen person (News presenter, announcer, host)",Emergency Announcement,4.289473684
+"The SN handle of primary onscreen person (News presenter, announcer, host)",Emergency Announcement,
+Topic of discussion or current story text,Emergency Announcement,4.526315789
+"Title of primary person (News presenter, Announcer, Host)",Emergency Announcement,4.447368421
+The location name of an onscreen primary person,Emergency Announcement,
+Time and Temperature,Emergency Announcement,
+"The name of the secondary person (Remote Reporter, Guest)",Emergency Announcement,
+"The title of secondary person (Remote Reporter, Guest)",Emergency Announcement,
+"Textual Information (City-wise Temperature information, Other textual)",Emergency Announcement,4.5
+Logo of the channel,Political Debate,2.947368421
+The Speaker's Eye,Political Debate,4.368421053
+The Speaker's Mouth,Political Debate,4.421052632
+The Listener's Face,Political Debate,4.105263158
+"The Name of primary onscreen person (News presenter, announcer, host)",Political Debate,4.368421053
+"The SN handle of primary onscreen person (News presenter, announcer, host)",Political Debate,
+Topic of discussion or current story text,Political Debate,4.578947368
+"Title of primary person (News presenter, Announcer, Host)",Political Debate,3.842105263
+The location name of an onscreen primary person,Political Debate,
+Time and Temperature,Political Debate,
+"The name of the secondary person (Remote Reporter, Guest)",Political Debate,
+"The title of secondary person (Remote Reporter, Guest)",Political Debate,
+"Textual Information (City-wise Temperature information, Other textual)",Political Debate,
+Logo of the channel,Weather News,2.824561404
+The Speaker's Eye,Weather News,3.912280702
+The Speaker's Mouth,Weather News,3.824561404
+The Listener's Face,Weather News,
+"The Name of primary onscreen person (News presenter, announcer, host)",Weather News,2.807017544
+"The SN handle of primary onscreen person (News presenter, announcer, host)",Weather News,
+Topic of discussion or current story text,Weather News,
+"Title of primary person (News presenter, Announcer, Host)",Weather News,2.561403509
+The location name of an onscreen primary person,Weather News,
+Time and Temperature,Weather News,3.929824561
+"The name of the secondary person (Remote Reporter, Guest)",Weather News,
+"The title of secondary person (Remote Reporter, Guest)",Weather News,
+"Textual Information (City-wise Temperature information, Other textual)",Weather News,4.578947368
+Logo of the channel,Sports,2.771929825
+The Speaker's Eye,Sports,3.684210526
+The Speaker's Mouth,Sports,3.614035088
+The Listener's Face,Sports,
+"The Name of primary onscreen person (News presenter, announcer, host)",Sports,3.315789474
+"The SN handle of primary onscreen person (News presenter, announcer, host)",Sports,2.561403509
+Topic of discussion or current story text,Sports,
+"Title of primary person (News presenter, Announcer, Host)",Sports,
+The location name of an onscreen primary person,Sports,
+Time and Temperature,Sports,
+"The name of the secondary person (Remote Reporter, Guest)",Sports,
+"The title of secondary person (Remote Reporter, Guest)",Sports,
+"Textual Information (City-wise Temperature information, Other textual)",Sports,

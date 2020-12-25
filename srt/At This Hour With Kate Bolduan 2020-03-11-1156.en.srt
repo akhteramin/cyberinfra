@@ -1,0 +1,46 @@
+﻿1
+00:02:41,895 --> 00:02:43,612
+ <i> Did you know that Febreze Air</i> 
+ <i> Effects </i>                      
+
+2
+00:02:43,664 --> 00:02:45,030
+ <i> uses 100% natural propellant?</i> 
+
+3
+00:02:45,065 --> 00:02:47,699
+<i>Cheaper aerosols use artificial</i> 
+<i>propellants.</i>                    
+
+4
+00:02:47,734 --> 00:02:49,618
+    <i> That's why Febreze works</i>   
+    <i> differently.</i>               
+
+5
+00:02:49,670 --> 00:02:50,586
+   <i> Plus, it eliminates odors</i>   
+
+6
+00:02:50,621 --> 00:02:53,572
+ <i> with a water-based formula and</i>
+ <i> no dyes.</i>                      
+
+7
+00:02:53,591 --> 00:02:55,257
+  <i> For freshness you'll enjoy.</i>  
+
+8
+00:02:57,378 --> 00:02:58,911
+ <i> For a nasty cold, take DayQuil</i>
+ <i> Severe with Vicks VapoCOOL.</i>   
+
+9
+00:02:58,946 --> 00:02:59,995
+             <i> Whoa!</i>             
+
+10
+00:03:00,047 --> 00:03:00,662
+<i>And vaporize it with an intense</i> 
+<i>rush of Vicks vapors.</i>           
+
